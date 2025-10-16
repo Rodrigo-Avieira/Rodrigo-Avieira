@@ -39,17 +39,6 @@ Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming t
 
 ---
 
-### 🚀 Featured Projects
-
-- 🧩 **Ecosystem Simulator (Java)** — ecological simulation based on Conway’s Game of Life rules.  
-- ⚡ **File Organizer (JavaFX)** — automatic file sorter using I/O and NIO.  
-- 🌐 **API Dashboard (Python + Flask)** — data visualization and automation project.  
-- 🔒 **Security Scripts (Linux + Bash)** — automations for password and network security.
-
-➡️ Check out my repositories to explore more of my work!
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
