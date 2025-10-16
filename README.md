@@ -48,13 +48,6 @@ Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming t
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Rodrigo-Avieira/Rodrigo-Avieira/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-vieira-8a89211b2">
