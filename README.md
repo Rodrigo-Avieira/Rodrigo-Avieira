@@ -53,15 +53,15 @@ Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Avieira&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Avieira&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Rodrigo-Avieira/Rodrigo-Avieira/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -71,7 +71,7 @@ Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming t
   <a href="https://www.linkedin.com/in/rodrigo-vieira-8a89211b2">
     <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Vieira-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/Rodrigo-Avieira">
     <img src="https://img.shields.io/badge/GitHub-Rodrigo%20Vieira-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
