@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Rodrigo Vieira</h1>
+<h1 align="center">Hey there, I'm Rodrigo Vieira</h1>
 
 <p align="center">
   <strong>Software Engineering Student | Back-end Developer | Java • Python • Cybersecurity Enthusiast</strong>
@@ -6,17 +6,17 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 I'm a **Software Engineering student** passionate about technology, problem-solving, and building solutions that make an impact.  
 My main focus is on **Back-end Development** with **Java** and **Python**, while continuously improving my understanding of **software architecture, security, and automation**.
 
 Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming to become a professional capable of building **secure, scalable, and efficient systems**.
 
-💡 **Driven by purpose, discipline, and continuous learning.**
+ **Driven by purpose, discipline, and continuous learning.**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -60,4 +60,4 @@ Currently, I'm also studying **Defensive and Offensive Cybersecurity**, aiming t
 
 ---
 
-⭐ *"The difference between ordinary and extraordinary is consistency."*
+ *"The difference between ordinary and extraordinary is consistency."*
